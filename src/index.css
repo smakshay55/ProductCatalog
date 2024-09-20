@@ -1,0 +1,12 @@
+/* src/index.css */
+body {
+    background-color: #0e3964;
+}
+
+.card {
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
